@@ -2,6 +2,7 @@ from django.contrib import admin
 from django.db import models
 from django.utils import timezone
 import datetime
+
 # Create your models here.
 # 모델 생성
 # 모델을 테이블에 써 주기 위한 마이그레이션이라는걸 만든다.
